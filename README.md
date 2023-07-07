@@ -261,7 +261,7 @@ The competition table shows the results of 10 games between reinforcement learni
 
 ### Demo
 
-![Demo 1](https://github.com/nofaldip21/Azule-Games-Agent/blob/master/wiki-template/images/algorithm_1.gif)
+![Demo 1](wiki-template/images/algorithm_1.gif)
 
 #### Competition results
 
@@ -290,7 +290,7 @@ The competition table shows that MCTS performs worse than reinforcement learning
 
 ### Demo
 
-![Demo 2](https://github.com/nofaldip21/Azule-Games-Agent/blob/master/wiki-template/images/algorithm_2.gif)
+![Demo 2](wiki-template/images/algorithm_2.gif)
 
 #### Competition results
 
@@ -319,7 +319,7 @@ The competition table shows a significant increase in the average score compared
 
 ### Demo
 
-![Demo 3](https://github.com/nofaldip21/Azule-Games-Agent/blob/master/wiki-template/images/algorithm_3.gif)
+![Demo 3](wiki-template/images/algorithm_3.gif)
 
 #### Competition results
 
@@ -332,7 +332,7 @@ The competition table shows a significant increase in the average score compared
 
 #### Competition Leaderboard
 
-![Leaderboard](https://github.com/nofaldip21/Azule-Games-Agent/blob/master/wiki-template/images/Leaderboard_submission.jpg)
+![Leaderboard](/wiki-template/images/Leaderboard_submission.jpg)
 
 We only submitted using this algorithm because it performs the best compared to other algorithms. It shows good results by beating some staff agents in the competition.
 
